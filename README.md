@@ -1,16 +1,24 @@
-## Hi there 👋
+ Olá, eu sou o Pedro Luis Pereira
 
-<!--
-**pedro-luis-pereira-09/pedro-luis-pereira-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 2º ano do curso Técnico em **Desenvolvimento de Sistemas** na **ETEC de Hortolândia (SP)**, com foco e transição de carreira direcionados para **Cibersegurança**.
 
-Here are some ideas to get you started:
+Acredito que para proteger sistemas com eficiência é preciso primeiro saber como eles são construídos. Por isso, combino minha base de desenvolvimento de software e bancos de dados com estudos práticos em segurança ofensiva e defensiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Habilidades e Ferramentas
+
+* **Linguagens:** Python, SQL, JavaScript, C#, C,Portugol.
+
+
+
+## Formação e Certificações
+
+* **Técnico em Desenvolvimento de Sistemas** — ETEC de Hortolândia *(2025 – 2027)*
+
+
+
+### Onde me encontrar
+
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com)
+* **TryHackMe:** [tryhackme.com/p/seu-usuario](https://tryhackme.com)
+* **E-mail:** seu.email@exemplo.com
