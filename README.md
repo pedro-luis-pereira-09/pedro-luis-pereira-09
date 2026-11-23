@@ -19,6 +19,5 @@ Acredito que para proteger sistemas com eficiência é preciso primeiro saber co
 
 ### Onde me encontrar
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com)
-* **TryHackMe:** [tryhackme.com/p/seu-usuario](https://tryhackme.com)
-* **E-mail:** seu.email@exemplo.com
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-luis-pereira-39a918451?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **E-mail:** pedrolpereira140709@gmail.com
